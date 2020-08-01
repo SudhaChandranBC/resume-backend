@@ -20,7 +20,8 @@ To avoid configuring your API resources like the DynamoDB table, the API Gateway
 Instead, defined them in an AWS Serverless Application Model (SAM) template and deploy them using the AWS SAM CLI.
 
 
-Finally a great first Challenge i have done.
-Here's the output of this challenge: https://sudhachandranbc.online
+Finally a great first challenge i have ever done.
 
-> Sudha Chandran [@sudhaKishoreBC](https://twitter.com/SudhaKishoreBC) || <a href="(https://dev.to/sudhachandranbc/sam-serverless-application-model-cloudresumechallenge-dee)">August 1, 2020</a>
+Here's the output of this challenge: <a href="(https://dev.to/sudhachandranbc/my-journey-of-cloud-resume-challenge-k51)">My Journey of Cloud Computing Challenge</a>
+
+> Sudha Chandran | [@sudhaKishoreBC](https://twitter.com/SudhaKishoreBC/status/1289542419751424006) || <a href="(https://dev.to/sudhachandranbc/my-journey-of-cloud-resume-challenge-k51)">August 1, 2020</a>
