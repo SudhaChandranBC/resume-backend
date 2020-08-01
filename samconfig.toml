@@ -3,7 +3,7 @@ version = 0.1
 [default.deploy]
 [default.deploy.parameters]
 stack_name = "sudha-cloud-resume"
-s3_bucket = "aws-sam-cli-managed-default-samclisourcebucket-1rbuo36g9zaqj"
+s3_bucket = "aws-sam-cli-managed-default-samclisourcebucket-r5lriztc7br5"
 s3_prefix = "sudha-cloud-resume"
 region = "us-west-2"
 confirm_changeset = true
