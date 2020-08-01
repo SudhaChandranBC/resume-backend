@@ -45,7 +45,7 @@ Resources:
               - logs:*
               Resource: "*"
 
-  # Lambda Function
+  # Lambda Function for visiter count
   CountVisitorFunction:
     Type: AWS::Serverless::Function
     Properties:

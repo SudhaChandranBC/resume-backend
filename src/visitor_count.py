@@ -16,7 +16,7 @@ def lambda_handler(event, context):
         ReturnValues="UPDATED_NEW",
     )
 
-    # Format dynamodb response into variable
+    # Format dynamodb response into variable visitorCount
     responseBody = json.dumps(
         {"visitorCount": int(float(ddbResponse["Attributes"]["NumOfViews"]))}
     )
