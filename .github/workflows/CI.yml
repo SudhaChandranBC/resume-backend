@@ -14,7 +14,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-          uses: actions/checkout@master
+          uses: actions/checkout@v2
       - name: SAM Build
           uses: youyo/aws-sam-action/python3.8@master
         with:
