@@ -23,4 +23,4 @@ Instead, defined them in an AWS Serverless Application Model (SAM) template and 
 Finally a great first Challenge i have done.
 Here's the output of this challenge: https://sudhachandranbc.online
 
-— Sudha Chandran (@sudhaKishoreBC) August 1, 2020
+> Sudha Chandran [@sudhaKishoreBC](https://twitter.com/SudhaKishoreBC) || <a href="(https://dev.to/sudhachandranbc/sam-serverless-application-model-cloudresumechallenge-dee)">August 1, 2020</a>
