@@ -1,0 +1,12 @@
+version = 0.1
+[default]
+[default.deploy]
+[default.deploy.parameters]
+stack_name = "sudha-cloud-resume"
+s3_bucket = "aws-sam-cli-managed-default-samclisourcebucket-1rbuo36g9zaqj"
+s3_prefix = "sudha-cloud-resume"
+region = "us-west-2"
+confirm_changeset = true
+capabilities = "CAPABILITY_IAM"
+parameter_overrides = "DynamoDBTableName=\"SudhaResume\""
+
